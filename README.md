@@ -3,9 +3,12 @@
 
 <h3 align="center">Developer in the upbringing</h3>
 
+- 🌱 I’m currently learning **Node.js, C++, C#**
+
+
 - 🔭 I’m currently working on [Lego website](web322-mt5j.onrender.com)
 
-- 🌱 I’m currently learning **Node.js, C++, C#**
+- 👯 I’m looking to collaborate on [System Integrated AI Model (Baymax)](https://www.noahabebe.com/baymax.html)
 
 - 🤝 I’m looking for help with [using three.js](https://github.com/StarrLikeRingo22/reactbasics)
 
