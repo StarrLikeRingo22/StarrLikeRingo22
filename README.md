@@ -3,7 +3,7 @@
 
 <h3 align="center">Developer in the upbringing</h3>
 
-- 🌱 I’m currently learning **Node.js, C++, C#**
+- 🌱 I’m currently learning **Java, Swift, Python, & Javascript**
 
 
 - 🔭 I’m currently working on [Lego website](web322-mt5j.onrender.com)
