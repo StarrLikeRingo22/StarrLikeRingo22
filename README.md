@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Lego website](web322-mt5j.onrender.com)
 
-- 👯 I’m looking to collaborate on [System Integrated AI Model (Baymax)](https://www.noahabebe.com/baymax.html)
+- 👯 I’m looking to collaborate on [Portals](https://github.com/StarrLikeRingo22/portals)
 
-- 🤝 I’m looking for help with [using three.js](https://github.com/StarrLikeRingo22/reactbasics)
+- 🤝 I’m looking for help with [using three.js](https://github.com/StarrLikeRingo22/miniverse)
 
 - 💬 Ask me about **C, C++, React, Javascript & Bash**
 
