@@ -5,12 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Swift, Python, & Javascript**
 
-
-- 🔭 I’m currently working on [Lego website](web322-mt5j.onrender.com)
-
-- 👯 I’m looking to collaborate on [Portals](https://github.com/StarrLikeRingo22/portals)
-
-- 🤝 I’m looking for help with [using three.js](https://github.com/StarrLikeRingo22/miniverse)
+- 🔭 I’m currently working on [Portals]([web322-mt5j.onrender.com](https://github.com/StarrLikeRingo22/portals))
 
 - 💬 Ask me about **C, C++, React, Javascript & Bash**
 
