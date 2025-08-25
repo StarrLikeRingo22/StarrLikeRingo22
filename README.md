@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Portals]([web322-mt5j.onrender.com](https://github.com/StarrLikeRingo22/portals))
 
+- 👨‍💻 My top projects are available on my [Personal Website]([https://abdelgadir.vercel.app/])
+
 - 💬 Ask me about **C, C++, React, Javascript & Bash**
 
 - 📫 How to reach me **aabdelgadir@myseneca.ca**
