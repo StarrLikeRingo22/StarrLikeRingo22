@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Prisma, & AWS**
 
-- 🔭 I’m currently working on [E-Gov-wallet](https://github.com/StarrLikeRingo22/e-gov-wallet))
+- 🔭 I’m currently working on [E-Gov-wallet](https://github.com/StarrLikeRingo22/e-gov-wallet)
 
 - 👨‍💻 My top projects are available on my [Personal Website](https://abdelgadir.vercel.app/)
 
